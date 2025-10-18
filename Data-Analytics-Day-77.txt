@@ -1,0 +1,61 @@
+Machine Learning for Data Analysts
+
+🔹 Lesson 1: Introduction to Machine Learning
+================================================
+Summary:
+Machine Learning (ML) is about training systems to learn from data and make predictions.
+Supervised Learning → labeled data (e.g., predicting sales)
+Unsupervised Learning → no labels (e.g., customer segmentation)
+Reinforcement Learning → learning through feedback
+
+Example:
+Predicting Swiggy delivery times based on past orders and distance using regression.
+
+
+🔹 Lesson 2: Regression Analysis
+=====================================
+Summary:
+Regression predicts continuous outcomes.
+Linear Regression → straight-line relationship
+Multiple Regression → several variables affecting output
+
+Example:
+Predict house prices using square footage, location, and age.
+
+
+🔹 Lesson 3: Classification Models
+========================================
+Summary:
+Used when output is categorical (e.g., Yes/No, Spam/Not Spam).
+Logistic Regression
+Decision Trees
+Random Forest
+
+Example:
+Classify whether a transaction is fraudulent or genuine.
+
+
+🔹 Lesson 4: Clustering (Unsupervised Learning)
+==================================================
+Summary:
+Clustering groups similar data points.
+Common algorithms: K-Means, Hierarchical, DBSCAN
+Helps in segmentation & pattern discovery
+
+Example:
+Group e-commerce customers by behavior to personalize marketing campaigns.
+
+
+🔹 Lesson 5: Case Study – Retail Predictive Analytics
+======================================================
+Summary:
+Steps:
+-------
+Collect retail sales data
+Clean & preprocess it
+Apply regression to forecast next month’s sales
+Visualize prediction results
+
+Example:
+A store chain used ML models to predict 15% increase in festive-season sales, improving inventory planning.
+
